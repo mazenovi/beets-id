@@ -6,7 +6,7 @@
 chrome://extensions
 ```
 
-in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  <img src="/static/images/hotdogmenu.png" height="29" width="29" alt="The menu's icon is three horizontal bars." data-pin-nopin="true"> The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
+in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  <img src="https://developer.chrome.com/static/images/hotdogmenu.png" height="29" width="29" alt="The menu's icon is three horizontal bars." data-pin-nopin="true"> The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
 
 * Ensure that the Developer mode checkbox in the top right-hand corner is checked.
 
