@@ -1,0 +1,18 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+  <head>
+    <title>Get a beets id</title>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <img id="icon" src="" />
+    <span id="source"></span>
+    <button id="close" style="float: right">X</button>
+    <input type="text" id="text" placeHolder="Enter Text To Copy"></input>
+  </body>
+</html>
